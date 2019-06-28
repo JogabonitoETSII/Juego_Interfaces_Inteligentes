@@ -20,11 +20,11 @@ proyecto final
  
  * __Controles__: Para el manejo del personaje utilizamos un mando de Xbox:
  
-  * LB: Ataque
-  * A: Saltar/Iniciar Partida
-  * B/Y: Cambiar de arma
-  * X: Recargar el arma de fuego
-  * Joystikc izquierdo: Mover al personaje
+   * LB: Ataque
+   * A: Saltar/Iniciar Partida
+   * B/Y: Cambiar de arma
+   * X: Recargar el arma de fuego
+   * Joystikc izquierdo: Mover al personaje
  
  * __Distribución de la tareas y trabajo en equipo__: A la hora de realizar el proyecto, por lo general, trabajabamos todos de manera conjunta, 
  usualmente de forma remota a través de Discord. Distribuir el trabajo de manera correcta sería complicado, ya que todos trabajos de alguna
